@@ -1,9 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "RAYNET CRM",
+  "name": "RAYNET Cloud CRM",
+	"short_name": "RAYNET CRM",
+	"description": "With our CRM it takes just seconds to find out everything there is to know about any of your customers.",
   "version": "1.0",
+	"author": "RAYNETCRM, LLC",
+	"default_locale": "en",
   "icons": {
     "16": "icon_16.png",
+    "48": "icon_48.png",
     "128": "icon_128.png"
   },
   "app": {
